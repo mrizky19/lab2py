@@ -21,7 +21,7 @@ Mapel   : Bahasa Pemrograman<br>
     
     ![instpy1.png](img/instpy1.png)
 
-3. Setelah instalasi selesai, disini saya menggunakan Text Editor yang bernama [Visual Studio Code](https://code.visualstudio.com/download) Code untuk mengetik script dan menjalankan programnya.
+3. Setelah instalasi selesai, disini saya menggunakan Text Editor yang bernama [Visual Studio Code](https://code.visualstudio.com/download) untuk mengetik script dan menjalankan programnya.
    > cara install [vscode](https://www.rsetiawan.com/2022/08/cara-install-visual-studio-code.html)
     
     ![terget="_blank"](img/vscode.png)
