@@ -1,6 +1,6 @@
 #input nilai variabel
-a = input("masukan nilai pertama: ")
-b = input("masukan nilai kedua: ")
+a = input("masukan nilai a: ")
+b = input("masukan nilai b: ")
 
 #cetak nilai variabel
 print("variabel a = ", a)
